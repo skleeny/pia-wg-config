@@ -1,4 +1,4 @@
-module github.com/kylegrantlucas/pia-wg-config
+module github.com/skleeny/pia-wg-config
 
 go 1.23.0
 
