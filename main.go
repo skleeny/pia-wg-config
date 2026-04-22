@@ -6,7 +6,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/kylegrantlucas/pia-wg-config/pia"
+	"github.com/skleeny/pia-wg-config/pia"
 	cli "github.com/urfave/cli/v2"
 )
 
